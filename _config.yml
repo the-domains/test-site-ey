@@ -1,6 +1,6 @@
 name: Test Site ey
 favicon: null
-layout_spectrum: 0.7858382312115282
+layout_spectrum: 0.91697
 typography_spectrum: 0.45692
 title: An amazine website for life
 cta:
@@ -22,8 +22,8 @@ color:
     - '#ffffff'
     - '#cccccc'
     - '#616161'
-  brandStrength: 0.8229890314396471
+  brandStrength: 0.875
   lightness: 0.2897214973345399
   saturation: 0.6594332428649068
-  rhythmicContrast: 0.09298589453101158
+  rhythmicContrast: 0
 purpose: []
