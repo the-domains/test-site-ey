@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[An amazine website for life]]></title>
+        <description><![CDATA[An amazine website for life]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 29 Oct 2015 17:00:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pollster Frank Luntz: THIS debate line scored highest in 20-year history of focus group - BizPac Review]]></title>
+            <description><![CDATA[<article><h1>Pollster Frank Luntz: THIS debate line scored highest in 20-year history of focus group - BizPac Review</h1><p>After running focus groups for nearly 20 years, pollster Frank Luntz said "I've never tested in any primary debate a line that scored as well as this." He said that it demonstrated what was wrong with both the CNBC moderators as well as the media.</p><img src="http://www.bizpacreview.com/wp-content/uploads/2015/10/frank-luntz-feat.jpg"></article>]]></description>
+            <link>http://www.bizpacreview.com/2015/10/29/pollster-frank-luntz-this-debate-line-scored-highest-in-20-year-history-of-focus-group-268953</link>
+            <guid isPermaLink="false">41337c0e-9310-48df-a84d-242dfc635514</guid>
+            <pubDate>Thu, 29 Oct 2015 17:00:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
