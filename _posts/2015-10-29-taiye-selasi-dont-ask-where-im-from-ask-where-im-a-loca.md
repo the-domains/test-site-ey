@@ -40,10 +40,10 @@ related:
     thumbnail_url: 'http://tedcdnpe-a.akamaihd.net/images/ted/f077e677088cb81563a1284189fa6f938ddbd5a2_240x180.jpg?lang=en'
     thumbnail_width: 240
 publisher:
-  url: 'http://ted.com'
   name: TED
-  favicon: 'https://tedcdnpa-a.akamaihd.net/favicon.ico'
   domain: www.ted.com
+  url: 'http://ted.com'
+  favicon: 'https://tedcdnpa-a.akamaihd.net/favicon.ico'
 keywords:
   - taiye
   - selasi
@@ -68,13 +68,15 @@ app_links:
     package: com.ted.android
 isBasedOnUrl: 'http://www.ted.com/talks/taiye_selasi_don_t_ask_where_i_m_from_ask_where_i_m_a_local#'
 title: "Taiye Selasi: Don't ask where I'm from, ask where I'm a local"
-datePublished: '2015-10-29T17:02:38.964Z'
-dateModified: '2015-10-29T17:02:11.983Z'
+datePublished: '2015-10-29T17:07:34.548Z'
+dateModified: '2015-10-29T17:07:30.375Z'
 sourcePath: _posts/2015-10-29-taiye-selasi-dont-ask-where-im-from-ask-where-im-a-loca.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
