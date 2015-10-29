@@ -1,7 +1,7 @@
 name: Test Site ey
 favicon: null
 layout_spectrum: 0.7858382312115282
-typography_spectrum: 0.3352442607283592
+typography_spectrum: 0.45692
 title: An amazine website for life
 cta:
   domain: null
@@ -16,7 +16,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#000000'
+    - '#850000'
+    - '#ffffff'
+    - '#cccccc'
+    - '#616161'
   brandStrength: 0.8229890314396471
   lightness: 0.2897214973345399
   saturation: 0.6594332428649068
