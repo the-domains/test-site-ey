@@ -2,6 +2,7 @@ name: Test Site ey
 favicon: null
 layout_spectrum: 0.7858382312115282
 typography_spectrum: 0.3352442607283592
+title: An amazine website for life
 cta:
   domain: null
   bucket: null
